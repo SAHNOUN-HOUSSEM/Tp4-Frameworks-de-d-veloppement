@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "GenreName": "Thriller"
+  },
+  {
+    "Id": 2,
+    "GenreName": "Action"
+  },
+  {
+    "Id": 3,
+    "GenreName": "Comedy"
+  },
+  {
+    "Id": 4,
+    "GenreName": "Adventure"
+  },
+  {
+    "Id": 5,
+    "GenreName": "Horror"
+  }
+]
